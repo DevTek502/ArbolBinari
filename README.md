@@ -2,7 +2,7 @@
 
 ## Lista Circular Simple
 
-![Lista](src/lista.PNG)
+![Lista](src/tree.PNG)
 
 En esta ocacion hemos realizado para nuestro repositorio de Github un ejemplo de como realizar la estructura de un arbol Binario de busqueda una de las estructuras mas usadas y mas importentes en su aprendizaje dentro de la programacion, dicho ejemplo lo hemos trabajado en el lenguaje de C++ pero con la programcion orientada objetos para que la puedas adapatar a cualquier lenguaje de programacion y en la cual hemos agregado las siguiente funciones
 
