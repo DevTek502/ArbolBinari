@@ -4,26 +4,23 @@
 
 ![Lista](src/lista.PNG)
 
-En esta ocacion hemos realizado para nuestro repositorio de Github un ejemplo de como realizar la estructura de una lista Simple esto hecho en el leguaje de C++ y en la cual hemos agregado las siguiente funciones
-
+En esta ocacion hemos realizado para nuestro repositorio de Github un ejemplo de como realizar la estructura de un arbol Binario de busqueda una de las estructuras mas usadas y mas importentes en su aprendizaje dentro de la programacion, dicho ejemplo lo hemos trabajado en el lenguaje de C++ pero con la programcion orientada objetos para que la puedas adapatar a cualquier lenguaje de programacion y en la cual hemos agregado las siguiente funciones
 
 ### Funciones
 
-* Insertar al inicio 
-* Insertar al final
-* Elminar un nodo al inicio
-* Eliminar un nodo al final
-* Obtener el estado actual de la estructura
-* Imprension de todos los nodos de la lista
+* Insertar 
+* Elminar 
+* Mostrar (Utilizando la herramienta de graphviz)
+* Recorridos preorden, postorden, inorden
 
 ---
 ### Video Tutorial 
 
 Aca podras encontrar los videos tutoriales de la explicacion del codigo que hemos realizado, la cual la hemos divido en dos partes y subido a nuestro canal de Youtube
 
-[Parte 1](https://www.youtube.com/watch?v=HEf7SWtAOaE&t=1185s)
+[Parte 1](https://youtu.be/xLze0-L_avo)
 
-[Parte 2](https://www.youtube.com/watch?v=xJinJyRHaM8&t=96s)
+[Parte 2]( )
 
 ---
 ### Serie de Estructura de Datos
@@ -39,4 +36,3 @@ Te dejamos un link para mires nuestra serie que hemos realizado sobre las difere
 [Canal de Youtube](https://www.youtube.com/channel/UClawZxxlqfXzPetVvUnMb4g) :coffee:
 
 ![DevTek](src/DevTek.png)
-
